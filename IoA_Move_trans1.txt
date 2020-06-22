@@ -1,4 +1,4 @@
-
+원본 : https://gist.githubusercontent.com/SciresM/71a38bcdd4717771afa8948532aabc0c/raw/e777fc84e09ed5f1c7c7686330ec649ebaf286ce/Pokemon%2520-%2520Sword%25201.2.0.txt
 
 DLC 갑옷의 외딴섬 포함 포켓몬스더 소드&쉴드 데이터마이닝 한글 번역 자료
 
